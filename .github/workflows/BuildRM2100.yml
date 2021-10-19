@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/zhb7670/RedmiAC2100
+  REPO_URL: https://github.com/Luastonsu/Overclock-LEDE
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: BuildRM2100.config
